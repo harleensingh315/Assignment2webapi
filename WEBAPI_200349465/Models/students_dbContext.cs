@@ -1,11 +1,22 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using WEBAPI_200349465.Models;
 
-namespace WEBAPI_200349465.Models
+namespace WEBAPI_200349465
 {
     public partial class students_dbContext : DbContext
     {
+        public students_dbContext()
+        {
+        }
+
+        public students_dbContext(DbContextOptions<students_dbContext> options)
+            : base(options)
+        {
+        }
+
+
         public virtual DbSet<AspNetRoles> AspNetRoles { get; set; }
         public virtual DbSet<AspNetUserClaims> AspNetUserClaims { get; set; }
         public virtual DbSet<AspNetUserLogins> AspNetUserLogins { get; set; }
@@ -16,15 +27,6 @@ namespace WEBAPI_200349465.Models
         public virtual DbSet<TblStudents> TblStudents { get; set; }
         public virtual DbSet<TeamPlayers> TeamPlayers { get; set; }
         public virtual DbSet<Teams> Teams { get; set; }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            if (!optionsBuilder.IsConfigured)
-            {
-
-                optionsBuilder.UseSqlServer(@"Server=tcp:200349465.database.windows.net;Database=students_db;Persist Security Info=False;user id=HarleenSingh;password=Harleen@2018");
-            }
-        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
