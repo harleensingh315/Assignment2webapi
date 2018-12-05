@@ -1,0 +1,11 @@
+D:\Client Documents\Harleen Canada\200349465API\WEBAPI_200349465\WEBAPI_200349465\bin\Debug\netcoreapp2.0\WEBAPI_200349465.deps.json
+D:\Client Documents\Harleen Canada\200349465API\WEBAPI_200349465\WEBAPI_200349465\bin\Debug\netcoreapp2.0\WEBAPI_200349465.runtimeconfig.json
+D:\Client Documents\Harleen Canada\200349465API\WEBAPI_200349465\WEBAPI_200349465\bin\Debug\netcoreapp2.0\WEBAPI_200349465.runtimeconfig.dev.json
+D:\Client Documents\Harleen Canada\200349465API\WEBAPI_200349465\WEBAPI_200349465\bin\Debug\netcoreapp2.0\WEBAPI_200349465.dll
+D:\Client Documents\Harleen Canada\200349465API\WEBAPI_200349465\WEBAPI_200349465\bin\Debug\netcoreapp2.0\WEBAPI_200349465.pdb
+D:\Client Documents\Harleen Canada\200349465API\WEBAPI_200349465\WEBAPI_200349465\obj\Debug\netcoreapp2.0\WEBAPI_200349465.csprojAssemblyReference.cache
+D:\Client Documents\Harleen Canada\200349465API\WEBAPI_200349465\WEBAPI_200349465\obj\Debug\netcoreapp2.0\WEBAPI_200349465.csproj.CoreCompileInputs.cache
+D:\Client Documents\Harleen Canada\200349465API\WEBAPI_200349465\WEBAPI_200349465\obj\Debug\netcoreapp2.0\WEBAPI_200349465.AssemblyInfoInputs.cache
+D:\Client Documents\Harleen Canada\200349465API\WEBAPI_200349465\WEBAPI_200349465\obj\Debug\netcoreapp2.0\WEBAPI_200349465.AssemblyInfo.cs
+D:\Client Documents\Harleen Canada\200349465API\WEBAPI_200349465\WEBAPI_200349465\obj\Debug\netcoreapp2.0\WEBAPI_200349465.dll
+D:\Client Documents\Harleen Canada\200349465API\WEBAPI_200349465\WEBAPI_200349465\obj\Debug\netcoreapp2.0\WEBAPI_200349465.pdb
